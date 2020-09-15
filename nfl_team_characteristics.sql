@@ -14,7 +14,7 @@ insert into nfl_team_characteristics values ('NO','SOUTH','NFC');
 insert into nfl_team_characteristics values ('SEA','WEST','NFC');
 insert into nfl_team_characteristics values ('GB','NORTH','NFC');
 insert into nfl_team_characteristics values ('TB','SOUTH','NFC');
-insert into nfl_team_characteristics values ('TEN','SOUTH','NFC');
+insert into nfl_team_characteristics values ('TEN','SOUTH','AFC');
 insert into nfl_team_characteristics values ('MIN','NORTH','NFC');
 insert into nfl_team_characteristics values ('DAL','EAST','NFC');
 insert into nfl_team_characteristics values ('BUF','EAST','AFC');
