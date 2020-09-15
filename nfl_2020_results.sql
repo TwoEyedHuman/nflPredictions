@@ -22,3 +22,4 @@ insert into nfl_2020_results values(12,'ARI');
 insert into nfl_2020_results values(13,'NO');
 insert into nfl_2020_results values(14,'LAR');
 insert into nfl_2020_results values(15,'PIT');
+insert into nfl_2020_results values(16,'TEN');
