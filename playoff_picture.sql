@@ -39,4 +39,4 @@ from (
 ) as rnk2
 where rnk2.wildcard_rank in (1,2)
 order by conference, playoff_rank asc
-;
+;   
